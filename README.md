@@ -35,9 +35,11 @@ OLED I²C 0.91" hoặc 0.96" (SSD1306, 128×32)
 
 Rotary encoder (EC11 hoặc tương đương, 3 chân: CLK/DT/SW)
 
-9 switch (push buttons)
+9 switch (push buttons) và 9 diode tách sóng 1n4148
 
 Dây nối / breadboard / nguồn type c
+
+chi phí chỉ khoảng 4-5$
 
 
 
